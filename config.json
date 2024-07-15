@@ -1,0 +1,107 @@
+[
+    {
+        "lightFieldAttributes": {
+            "hogelDimensions": [
+                256,
+                256
+            ],
+            "directionalResolution": [
+                115,
+                115
+            ],
+            "displayFOV": [
+                45,
+                45
+            ],
+            "file": "pirateChurch.png",
+            "fileSize": "1958718622 bytes",
+            "downloadLink": "#"
+        }
+    },
+    {
+        "lightFieldAttributes": {
+            "hogelDimensions": [
+                512,
+                512
+            ],
+            "directionalResolution": [
+                115,
+                115
+            ],
+            "displayFOV": [
+                45,
+                45
+            ],
+            "file": "pirateChurch512.png",
+            "fileSize": "7800849039 bytes",
+            "downloadLink": "#"
+        }
+    },
+    {
+        "lightFieldAttributes": {
+            "hogelDimensions": [
+                256,
+                256
+            ],
+            "directionalResolution": [
+                282,
+                282
+            ],
+            "displayFOV": [
+                90,
+                90
+            ],
+            "file": "TwoBuildings.png",
+            "fileSize": "10716905618 bytes",
+            "downloadLink": "#"
+        }
+    },
+    {
+        "lightFieldAttributes": {
+            "hogelDimensions": [
+                150,
+                150
+            ],
+            "directionalResolution": [
+                603,
+                401
+            ],
+            "displayFOV": [
+                65.81084152771528,
+                46.23035104312382
+            ],
+            "file": "2024-03-12 lossy-10-flipped.png",
+            "fileSize": "9914000523 bytes",
+            "downloadLink": "#"
+        }
+    },
+    {
+        "lightFieldAttributes": {
+            "hogelDimensions": [
+                355,
+                376
+            ],
+            "directionalResolution": "N/A",
+            "displayFOV": [
+                45.0,
+                45.0
+            ],
+            "file": "2024-03-04 lossy-fov.png",
+            "fileSize": "15243035 bytes",
+            "downloadLink": "#"
+        }
+    },
+    {
+        "lightFieldAttributes": {
+            "hogelDimensions": [
+                6034,
+                4012
+            ],
+            "directionalResolution": "N/A",
+            "displayFOV": "N/A",
+            "file": "2024-02-22 lossless.png",
+            "fileSize": "563217450 bytes",
+            "downloadLink": "#"
+        }
+    }
+]
