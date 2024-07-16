@@ -8,6 +8,7 @@ The Memorial Light Field Archive (MLFA) is a web-based gallery showcasing a coll
 - `style.css`: Contains all the styling rules for the website.
 - `script.js`: JavaScript file handling dynamic loading of images and interactions.
 - `config.json`: Configuration file containing metadata about each image.
+- `images/`: Directory containing all the image files. This directory should include all the light field images referenced in the `config.json` file.
 
 ## Setup
 
